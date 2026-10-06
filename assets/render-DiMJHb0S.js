@@ -1,0 +1,1 @@
+import{E as e,k as t}from"./index-ILpzgVHh.js";function n(){return e()?.appContext.config.globalProperties.$q??t(`_q_`)}function r(e,t){return e===void 0?t:e()||t}function i(e,t){return e===void 0?t:t.concat(e())}export{r as n,n as r,i as t};
