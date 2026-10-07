@@ -1,0 +1,1 @@
+import{P as e,T as t,x as n,z as r}from"./index-BuSdpdGv.js";import{t as i}from"./QBtn-0q-Mtroq.js";import{t as a}from"./QPage-BvyxhI2_.js";var o={__name:`SecondPage`,setup(o){return(o,s)=>(e(),n(a,{class:`flex flex-center`},{default:r(()=>[t(i,{color:`secondary`,to:`/`,label:`Go to Index Page`,"no-caps":``})]),_:1}))}};export{o as default};
